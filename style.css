@@ -1,0 +1,20 @@
+body {
+    background-color: linear-gradient(aquamarine, aqua);
+    text-align: center;
+}
+iframe{
+    
+}
+#award #10{
+    display: inline;
+}
+#movie-head i{
+    float: right;
+}
+#movie-head{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
